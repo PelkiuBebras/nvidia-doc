@@ -14,7 +14,7 @@
   * TODO: [Explore TensorRT .engine execution graph? ](https://github.com/NVIDIA/TensorRT/tree/main/tools/experimental/trt-engine-explorer)
 ### Q
 * How many tactics does TensorRT have?
- * TODO: Save .engine verbose logs to file -> regex parser to capture tactic title and ID, then save unique ones
-  * [04/06/2024-16:21:09] [V] [TRT] Set Tactic Name: sm75_xmma_gemm_f16f16_f16f16_f16_tn_n_tilesize32x32x64_stage1_warpsize2x2x1_tensor16x8x8 Tactic: 0x00000000000202af numSplitK: 1 numBuffers: 0 numKernels: 1
-  * https://regex101.com/
+  * TODO: Save .engine verbose logs to file -> regex parser to capture tactic title and ID, then save unique ones
+    * [04/06/2024-16:21:09] [V] [TRT] Set Tactic Name: sm75_xmma_gemm_f16f16_f16f16_f16_tn_n_tilesize32x32x64_stage1_warpsize2x2x1_tensor16x8x8 Tactic: 0x00000000000202af numSplitK: 1 numBuffers: 0 numKernels: 1
+    * https://regex101.com/
 * How do tactics depend on memory pool size?
