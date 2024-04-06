@@ -10,7 +10,7 @@
   * github: [Nvidia/TensorRT](https://github.com/NVIDIA/TensorRT/releases)
   * [Operators Reference](https://docs.nvidia.com/deeplearning/tensorrt/archives/tensorrt-852/operators/index.html) (TRT 8.5.2) (Some version releases has this. Search thru archives, that are attached above)
     * [Operators](https://docs.nvidia.com/deeplearning/tensorrt/archives/tensorrt-852/operators/docs/index.html) (TRT 8.5.2)
-    * [Layer fusion](https://docs.nvidia.com/deeplearning/tensorrt/archives/tensorrt-852/developer-guide/index.html#layer-fusion) (TRT 8.5.2)
+    * TODO: Read [Layer fusion](https://docs.nvidia.com/deeplearning/tensorrt/archives/tensorrt-852/developer-guide/index.html#layer-fusion) (TRT 8.5.2)
   * TODO: [Explore TensorRT .engine execution graph? ](https://github.com/NVIDIA/TensorRT/tree/main/tools/experimental/trt-engine-explorer)
 ### Q
 * How many tactics does TensorRT have?
