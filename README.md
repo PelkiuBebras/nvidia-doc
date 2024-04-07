@@ -7,7 +7,8 @@
 * [Jetson Linux](https://developer.nvidia.com/embedded/jetson-linux-archive)
 ## Learining TensorRT
 ### Usefull info?
-  * github: [Nvidia/TensorRT](https://github.com/NVIDIA/TensorRT/releases)
+  * Official github: [Nvidia/TensorRT](https://github.com/NVIDIA/TensorRT/releases)
+  * Several models implemented in TensorRT: [wang-xinyu/TensorRTx](https://github.com/wang-xinyu/tensorrtx?ref=blog.roboflow.com)
   * [Operators Reference](https://docs.nvidia.com/deeplearning/tensorrt/archives/tensorrt-852/operators/index.html) (TRT 8.5.2) (Some version releases has this. Search thru archives, that are attached above)
     * [Operators](https://docs.nvidia.com/deeplearning/tensorrt/archives/tensorrt-852/operators/docs/index.html) (TRT 8.5.2)
     * TODO: Read [Layer fusion](https://docs.nvidia.com/deeplearning/tensorrt/archives/tensorrt-852/developer-guide/index.html#layer-fusion) (TRT 8.5.2)
