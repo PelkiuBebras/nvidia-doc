@@ -13,6 +13,7 @@
     * [Operators](https://docs.nvidia.com/deeplearning/tensorrt/archives/tensorrt-852/operators/docs/index.html) (TRT 8.5.2)
     * TODO: Read [Layer fusion](https://docs.nvidia.com/deeplearning/tensorrt/archives/tensorrt-852/developer-guide/index.html#layer-fusion) (TRT 8.5.2)
   * TODO: [Explore TensorRT .engine execution graph? ](https://github.com/NVIDIA/TensorRT/tree/main/tools/experimental/trt-engine-explorer)
+  * 
 ### Q
 * How many tactics does TensorRT have?
   * TODO: Save .engine verbose logs to file -> regex parser to capture tactic title and ID, then save unique ones
@@ -20,3 +21,7 @@
     * https://regex101.com/
 * How do tactics depend on memory pool size?
 * Are all ONNX layers supported by TensorRT?
+
+## GPU related?
+###
+* What is Nvidia Ray Tracing?
