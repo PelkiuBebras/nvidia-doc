@@ -5,6 +5,7 @@
 * [CUDA Toolkit](https://developer.nvidia.com/cuda-toolkit-archive)
 * [JetPack](https://developer.nvidia.com/embedded/jetpack-archive)
 * [Jetson Linux](https://developer.nvidia.com/embedded/jetson-linux-archive)
+* [Nsight Systems](https://docs.nvidia.com/nsight-systems/Archives/index.html)
 ## Learining TensorRT
 ### Usefull info?
   * Official github: [Nvidia/TensorRT](https://github.com/NVIDIA/TensorRT/releases)
